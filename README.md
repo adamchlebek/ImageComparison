@@ -3,6 +3,6 @@
 
 This project is a personal project to compare two images and decide how close the two images are by color.
 
-#Getting Started
+## Getting Started
 
 This project will be relased as soon as the basics get compleated. 
