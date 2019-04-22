@@ -5,4 +5,15 @@ This project is a personal project to compare two images and decide how close th
 
 ## Getting Started
 
-This project will be relased as soon as the basics get compleated. 
+This project will be relased as soon as the basics get completed. 
+
+
+## How To Use
+
+```
+Download the project and after you run it, upload two images and click compare!
+```
+
+## UI
+
+* [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) - The frontend toolkit used.
