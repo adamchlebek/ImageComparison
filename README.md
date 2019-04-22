@@ -14,6 +14,10 @@ This project will be relased as soon as the basics get completed.
 Download the project and after you run it, upload two images and click compare!
 ```
 
-## UI
+## Build With
 
 * [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) - The frontend toolkit used.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
