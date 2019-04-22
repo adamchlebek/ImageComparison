@@ -123,18 +123,16 @@
             this.lblPictureOne.AutoSize = true;
             this.lblPictureOne.Location = new System.Drawing.Point(7, 20);
             this.lblPictureOne.Name = "lblPictureOne";
-            this.lblPictureOne.Size = new System.Drawing.Size(35, 13);
+            this.lblPictureOne.Size = new System.Drawing.Size(0, 13);
             this.lblPictureOne.TabIndex = 0;
-            this.lblPictureOne.Text = "label1";
             // 
             // lblPictureTwo
             // 
             this.lblPictureTwo.AutoSize = true;
             this.lblPictureTwo.Location = new System.Drawing.Point(6, 76);
             this.lblPictureTwo.Name = "lblPictureTwo";
-            this.lblPictureTwo.Size = new System.Drawing.Size(35, 13);
+            this.lblPictureTwo.Size = new System.Drawing.Size(0, 13);
             this.lblPictureTwo.TabIndex = 1;
-            this.lblPictureTwo.Text = "label2";
             // 
             // Form1
             // 
