@@ -7,6 +7,8 @@ This project is a personal project to compare two images and decide how close th
 
 This project will be relased as soon as the basics get completed. 
 
+## Screenshot
+![image](https://user-images.githubusercontent.com/6178387/70075933-c112ca80-15cb-11ea-81b9-7fe45fcfdce5.png)
 
 ## How To Use
 
